@@ -1,7 +1,7 @@
 # Expense Tracker (React)
 
-This is a React version of the [vanilla JS Expense Tracker](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker). It uses functional components with hooks and the context API
-
+This is a React version of Expense Tracker. It uses functional components with hooks and the context API
+link to this wesbsite is https://nickey-expense-tracker.netlify.app
 ## Usage
 ```
 npm install
